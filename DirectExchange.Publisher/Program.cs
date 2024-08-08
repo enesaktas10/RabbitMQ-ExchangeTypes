@@ -18,7 +18,7 @@ while (true)
     string message = Console.ReadLine();
     byte[] byteMessage = Encoding.UTF8.GetBytes(message);
 
-    //We publish the messages we receive from the console
+    //We publish the messages we receive from the consoleee
     channel.BasicPublish(exchange: "direct-exchange-example",routingKey:"direct-queue-example",body:byteMessage);
 
 }
