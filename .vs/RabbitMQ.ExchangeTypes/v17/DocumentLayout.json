@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enes\\Desktop\\Rabb\u0130tMQExchangeTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64114321-ACE1-4B40-ADF5-D4586A619E91}|DirectExchange.Publisher\\DirectExchange.Publisher.csproj|c:\\users\\enes\\desktop\\rabb\u0130tmqexchangetypes\\directexchange.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64114321-ACE1-4B40-ADF5-D4586A619E91}|DirectExchange.Publisher\\DirectExchange.Publisher.csproj|solutionrelative:directexchange.publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587C375E-9CAA-4969-81EF-D897A9F856FB}|DirectExchange.Consumer\\DirectExchange.Consumer.csproj|c:\\users\\enes\\desktop\\rabb\u0130tmqexchangetypes\\directexchange.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587C375E-9CAA-4969-81EF-D897A9F856FB}|DirectExchange.Consumer\\DirectExchange.Consumer.csproj|solutionrelative:directexchange.consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\Rabb\u0130tMQExchangeTypes\\DirectExchange.Publisher\\Program.cs",
+              "RelativeDocumentMoniker": "DirectExchange.Publisher\\Program.cs",
+              "ToolTip": "C:\\Users\\enes\\Desktop\\Rabb\u0130tMQExchangeTypes\\DirectExchange.Publisher\\Program.cs",
+              "RelativeToolTip": "DirectExchange.Publisher\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:47:17.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enes\\Desktop\\Rabb\u0130tMQExchangeTypes\\DirectExchange.Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "DirectExchange.Consumer\\Program.cs",
+              "ToolTip": "C:\\Users\\enes\\Desktop\\Rabb\u0130tMQExchangeTypes\\DirectExchange.Consumer\\Program.cs",
+              "RelativeToolTip": "DirectExchange.Consumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:47:13.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

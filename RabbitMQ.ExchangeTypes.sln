@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange.Publisher", "DirectExchange.Publisher\DirectExchange.Publisher.csproj", "{64114321-ACE1-4B40-ADF5-D4586A619E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange.Consumer", "DirectExchange.Consumer\DirectExchange.Consumer.csproj", "{587C375E-9CAA-4969-81EF-D897A9F856FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64114321-ACE1-4B40-ADF5-D4586A619E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64114321-ACE1-4B40-ADF5-D4586A619E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64114321-ACE1-4B40-ADF5-D4586A619E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64114321-ACE1-4B40-ADF5-D4586A619E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587C375E-9CAA-4969-81EF-D897A9F856FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587C375E-9CAA-4969-81EF-D897A9F856FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587C375E-9CAA-4969-81EF-D897A9F856FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587C375E-9CAA-4969-81EF-D897A9F856FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C1D6BE-8527-4956-A66F-9EDCAA2CA647}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqD06GZHpNER5oF1W/UmVNWQHCPTq9tV2WRQDtvXO1nwdR/pytJHG/DXEFy4V8Km795nVd6ny/nvkHBgj2Ftkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enes\\Desktop\\RabbİtMQExchangeTypes\\DirectExchange.Publisher\\DirectExchange.Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enes\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\enes\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\enes\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
