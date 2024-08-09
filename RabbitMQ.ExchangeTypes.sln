@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange.Publisher", "DirectExchange.Publisher\DirectExchange.Publisher.csproj", "{64114321-ACE1-4B40-ADF5-D4586A619E91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectExchange.Publisher", "DirectExchange.Publisher\DirectExchange.Publisher.csproj", "{64114321-ACE1-4B40-ADF5-D4586A619E91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange.Consumer", "DirectExchange.Consumer\DirectExchange.Consumer.csproj", "{587C375E-9CAA-4969-81EF-D897A9F856FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectExchange.Consumer", "DirectExchange.Consumer\DirectExchange.Consumer.csproj", "{587C375E-9CAA-4969-81EF-D897A9F856FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutExchange.Publisher", "FanoutExchange.Publisher\FanoutExchange.Publisher.csproj", "{A2888547-745D-4829-83C8-E40627E0B5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutExchange.Consumer", "FanoutExchange.Consumer\FanoutExchange.Consumer.csproj", "{6FCC801E-95BC-4B1B-9D71-992E2F185C69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{587C375E-9CAA-4969-81EF-D897A9F856FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{587C375E-9CAA-4969-81EF-D897A9F856FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{587C375E-9CAA-4969-81EF-D897A9F856FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2888547-745D-4829-83C8-E40627E0B5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2888547-745D-4829-83C8-E40627E0B5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2888547-745D-4829-83C8-E40627E0B5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2888547-745D-4829-83C8-E40627E0B5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCC801E-95BC-4B1B-9D71-992E2F185C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCC801E-95BC-4B1B-9D71-992E2F185C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCC801E-95BC-4B1B-9D71-992E2F185C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCC801E-95BC-4B1B-9D71-992E2F185C69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
